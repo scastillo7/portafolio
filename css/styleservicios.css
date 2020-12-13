@@ -1,0 +1,93 @@
+:root{
+	--color-negro: #000000;
+	--color-azulc: #68C4D6;
+	--color-azulo: #255C62;
+	--color-blanco: #FFFFFF;
+	--color-gris: #919191;
+}
+
+header{
+	background-color: var(--color-blanco);
+}
+
+#header-top{
+	background-color: var(--color-azulc);
+	padding: 10px;
+}
+
+.list-top a{
+	color: var(--color-blanco);
+}
+
+
+#ctact{
+	color: var(--color-blanco);
+}
+
+#ctacto{
+	color: var(--color-blanco);
+}
+
+#logo{
+	margin-left: 80px;
+}
+
+#navbarNav{
+	margin-left: 200px;
+}
+.nav-link{
+	background-color: var(--color-azulc);
+	border-radius: 5%;
+	text-indent: 1px;
+	padding-right: 3px;
+	font-size: 20px;
+	text-align: center;
+}
+
+footer{
+	background-color: var(--color-azulc);
+	color: var(--color-blanco);
+	padding-top: 10px;
+}
+
+.services{
+	padding-top: 10px;
+}
+
+h2{
+	text-align: center;
+	background-color: var(--color-azulc);
+	color: var(--color-azulo);
+}
+
+#burbu{
+	display:block;
+	margin:auto;
+}
+
+h3{
+	color: var(--color-azulo);
+	margin-top: 10px;
+}
+
+#ejemplos h3{
+	text-align: center;
+}
+
+h6{
+text-align: center;	
+}
+
+h5{
+	text-align: center;
+}
+
+#start{
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#start .btn{
+	background-color: var(--color-azulc);
+	color: var(--color-azulo)
+}
